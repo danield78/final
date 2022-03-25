@@ -1,0 +1,13 @@
+header{
+    width: 100%;
+    height: 700px;
+    background: #cac5319d;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f9f8a785, #cac53180), url(../img/pexels-chris-schippers-421927.jpg) ;
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f9f8a785, #cac53180), url(../img/pexels-chris-schippers-421927.jpg); 
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
